@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="joker" size="320.000000 443.076935" />
+    <ImageTarget name="QuenSpades" size="500.000000 698.019775" />
+    <ImageTarget name="KingSpades" size="500.000000 698.051941" />
+    <ImageTarget name="JackSpades" size="500.000000 697.068420" />
+    <ImageTarget name="AceSpades" size="500.000000 691.358032" />
+    <ImageTarget name="QueenDiamonds" size="500.000000 693.006165" />
+    <ImageTarget name="KingDiamonds" size="500.000000 678.732239" />
+    <ImageTarget name="JackDiamonds" size="500.000000 722.544373" />
+    <ImageTarget name="AceDiamonds" size="500.000000 690.634216" />
+  </Tracking>
+</QCARConfig>
